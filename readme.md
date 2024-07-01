@@ -7,3 +7,4 @@ This repository has my blog posts published in [https://labpresse.com](https://l
 5. Why do we need Bayesian statistics? Part III – Learning multivariate distributions (tutorial), published on December 11, 2023 - available here as Lighthouse/lighthouse2.ipynb
 6. Which method should I use? -  A guide to benchmarking, published on December 18, 2023 - available here as Time/time_benchmark.ipynb
 7. A primer on the normal distribution, published on February 28, 2024 - available here as Normal/Normal.ipynb
+8. Solving differential equations using neural networks, published on July 1, 2024 - available here as PINN/PINN_tutorial.ipynb
